@@ -8,6 +8,8 @@
     <link rel="stylesheet" href="css/foundation.css" />
     <script src="js/vendor/modernizr.js"></script>
 
+    
+
     <link rel="stylesheet" href="css/style.css">
 </head>
 
@@ -23,11 +25,21 @@ include 'views/footer.php';
 
  ?>    
 
+    
+    
+</section>
+
+<a class="exit-off-canvas"></a>
+
+</div>
+</div>
     <script src="js/vendor/jquery.js"></script>
     <script src="js/foundation.min.js"></script>
+<script src="js/nav.js"></script>
     <script>
     $(document).foundation();
     </script>
+    
 </body>
 
 </html>
