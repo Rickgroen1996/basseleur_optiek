@@ -1,17 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,200);
 @import url(http://fonts.googleapis.com/css?family=Lobster);
 
-/*
-	Halcyonic 3.1 by HTML5 UP
-	html5up.net | @n33co
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
-/*********************************************************************************/
-/* Global                                                                        */
-/*********************************************************************************/
-
-/* Basic */
 
 	body
 	{
@@ -185,11 +174,9 @@
 	.bordered-feature-image
 	{
 		display: block;
-		background: #fff url('images/bg04.png');
-		padding: 10px;
 		box-shadow: 3px 3px 3px 1px rgba(0,0,0,0.15);
 		margin: 0 0 1.5em 0;
-		outline: 0;
+		
 	}
 	
 		.bordered-feature-image img

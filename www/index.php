@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Halcyonic by HTML5 UP</title>
+		<title>Basseleur Optiek</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -52,13 +52,13 @@
 							
 								<!-- Banner Copy -->
 									<p>We do something really useful, important, and unique. Learn all about it here ...</p>
-									<a href="#" class="button-big">Go on, click me!</a>
+									
 
 							</div>
 							<div class="6u">
 								
 								<!-- Banner Image -->
-									<a href="#" class="bordered-feature-image"><img src="images/banner.jpg" alt="" /></a>
+									<a href="#" class="bordered-feature-image"><img src="img/sfeer1.jpg" alt="" /></a>
 							
 							</div>
 						</div>
