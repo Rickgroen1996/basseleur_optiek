@@ -7,10 +7,8 @@
     <title>Basseleur optiek</title>
     <link rel="stylesheet" href="css/foundation.css" />
     <script src="js/vendor/modernizr.js"></script>
-
-    
-
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/nav.css">
 </head>
 
 <body>
@@ -27,15 +25,11 @@ include 'views/footer.php';
 
     
     
-</section>
 
-<a class="exit-off-canvas"></a>
-
-</div>
-</div>
     <script src="js/vendor/jquery.js"></script>
     <script src="js/foundation.min.js"></script>
 <script src="js/nav.js"></script>
+    <script src="js/script.js"></script>
     <script>
     $(document).foundation();
     </script>

@@ -1,36 +1,32 @@
-
-<div class="off-canvas-wrap" data-offcanvas>
-  <div class="inner-wrap">
-    <nav id="navmenu" class="tab-bar">
-      <section class="left-small">
-        <a class="left-off-canvas-toggle menu-icon" href="#"><span></span></a>
-      </section>
-
-      <section class="middle tab-bar-section">
-        <h1 class="title">Foundation</h1>
-      </section>
-
-      
-    </nav>
-
-    <aside class="left-off-canvas-menu fullmenu">
-      <ul class="off-canvas-list">
-        <li><label>Foundation</label></li>
-        <li><a href="#">The Psychohistorians</a></li>
-        <li><a href="#">...</a></li>
-      </ul>
-    </aside>
-
-    <aside class="right-off-canvas-menu">
-      <ul class="off-canvas-list">
-        <li><label>Users</label></li>
-        <li><a href="#">Hari Seldon</a></li>
-        <li><a href="#">...</a></li>
-      </ul>
-    </aside>
-
-    <section class="main-section">
-      <!-- content goes here -->
-   
-
-
+<header>
+    <div class="row">
+        <div class="large-3 medium-12 small-12 text-center columns">
+            <img src="../www/img/logo.png">
+        </div>
+        <div class="large-9 medium-12 text-center columns">
+        <div id='cssmenu'>
+            <ul>
+                <li>
+                    <a href='#'>Home</a>
+                </li>
+                <li>
+                    <a href='#'>Over</a>
+                
+                </li>
+                <li>
+                    <a href='#'>Zorgvergoedingen</a>
+                </li>
+                <li>
+                    <a href='#'>Acties & Nieuws</a>
+                </li>
+                <li>
+                    <a href='#'>Contact</a>
+                </li>
+                <li>
+                    <a href='#'>Online afspraak</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+</header>
