@@ -6,27 +6,27 @@
         <div class="large-9 medium-12 text-center columns">
         <div id='cssmenu'>
             <ul>
-                <li class="active">
-                    <a href='#'>Home</a>
+                <li class="<?php echo ($page == "index" ? "active" : "")?>">
+                    <a href='index.php'>Home</a>
                 </li>
-                <li>
-                    <a href='#'>Over</a>
+                <li class="<?php echo ($page == "over" ? "active" : "")?>">
+                    <a href='over.php'>Over</a>
                 
                 </li>
-                <li class='has-sub'><a href='#'>Producten & Diensten</a>
+                <li class="has-sub <?php echo ($page == "producten" ? "active" : "")?>"><a href='producten.php'>Producten & Diensten</a>
                       <ul>
                          <li class='has-sub'><a href='#' class="sub-item">Voorbeeld 1</a></li>
-                 <li class='has-sub'><a href='#' class="sub-item">Voorbeeld 2</a></li>
+                         <li class='has-sub'><a href='#' class="sub-item">Voorbeeld 2</a></li>
                   </ul>
                </li>
-                <li>
-                    <a href='#'>Acties & Nieuws</a>
+                <li class="<?php echo ($page == "acties" ? "active" : "")?>">
+                    <a href='acties.php'>Acties & Nieuws</a>
                 </li>
-                <li>
-                    <a href='#'>Contact</a>
+                <li class="<?php echo ($page == "contact" ? "active" : "")?>">
+                    <a href='contact.php'>Contact</a>
                 </li>
-                <li>
-                    <a href='#'>Online afspraak</a>
+                <li class="<?php echo ($page == "afspraak" ? "active" : "")?>">
+                    <a href='afspraak.php'>Online afspraak</a>
                 </li>
             </ul>
         </div>
