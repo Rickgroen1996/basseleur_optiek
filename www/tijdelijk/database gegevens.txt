@@ -1,0 +1,9 @@
+Database:	rickgsh85_basseleur-optiek
+Host:	localhost
+Username:	rickgsh85_admin
+Password:	Es6WrUuX
+
+
+
+
+http://159.253.0.127/

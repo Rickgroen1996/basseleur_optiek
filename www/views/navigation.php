@@ -15,8 +15,8 @@
                 </li>
                 <li class="has-sub <?php echo ($page == "producten" ? "active" : "")?>"><a href='producten.php'>Producten & Diensten</a>
                       <ul>
-                         <li class='has-sub'><a href='#' class="sub-item">Voorbeeld 1</a></li>
-                         <li class='has-sub'><a href='#' class="sub-item">Voorbeeld 2</a></li>
+                         <li class=''><a href='#' class="sub-item">Voorbeeld 1</a></li>
+                         <li class=''><a href='#' class="sub-item">Voorbeeld 2</a></li>
                   </ul>
                </li>
                 <li class="<?php echo ($page == "acties" ? "active" : "")?>">

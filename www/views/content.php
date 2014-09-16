@@ -13,12 +13,12 @@ Een persoonlijke benadering is voor ons familiebedrijf altijd van groot belang g
   
     </div>
       <div class="large-5 small-12 columns medium-6 image-content">
-        <img src="../www/img/sfeer1.png">
+        <img src="img/sfeer1.png">
         
        </div>
    
    
     <div class="large-5 show-for-medium-up medium-6 columns image-content">
-        <img src="../www/img/sfeer2.png">
+        <img src="img/sfeer2.png">
         
        </div>

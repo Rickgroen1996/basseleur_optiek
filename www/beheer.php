@@ -1,7 +1,11 @@
 <?php 
 
+
+
 $username = "basseleur";
 $password = "password";
+
+include 'db/connection.php';
 
 include 'views/beheer/head.php';
 
@@ -19,11 +23,12 @@ if (!isset($_COOKIE["login"])) {
 	}
 }else if ($_COOKIE["login"]==true) {
 	echo "u kunt hier uw paginas bewerken!";
-	/*
-	include....
-	include....
-	include....
-	*/
+
+
+
+
+
+
 }
 
 
